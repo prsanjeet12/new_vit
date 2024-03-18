@@ -81,7 +81,7 @@ const ImageSlider = () => {
         <div
           className="absolute  
          lg:w-full md:top-40 lg:top-[120px]
-            xl:ml-40 text-white px-4 py-2"
+          lg:ml-20  xl:ml-40 text-white px-4 py-2"
           style={{ bottom: "15%", left: "50%", transform: "translateX(-50%)" }}
         >
           <h2
